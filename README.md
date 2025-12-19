@@ -1,4 +1,4 @@
-![image alt]([./Images/David Rivera.png](https://github.com/david-rivera-g/Portfolio-for-Constructor.io/blob/c98edd3569742a5cf787244edda02cf41c2be662/Images/David%20Rivera.png))
+![image alt](https://github.com/david-rivera-g/Portfolio-for-Constructor.io/blob/1b935db7ac7228e935ed74dd338b7344793bf9a4/Images/Banner.png)
 # Data Analysis Portfolio for Constructor.io
 This portfolio selects some Data analytics projects, that use Python, SQL, and Data Analysis libraries to enhance data-driven decision making and generating valuable business insights.
 
