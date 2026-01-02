@@ -10,6 +10,10 @@ This project aims to execute Exploratory Data Analysis (EDA) in an E-commerce ba
 - Data Visualization with libraries like Matplotlib and Folium for Geospatial data visualization.
 - Generation of actionable business insights and conclusions.
 
+#### Data Schema:
+
+![image alt](https://github.com/david-rivera-g/Data-Journey/blob/53cc883259c391956bf5369da25f8930aec96028/Portolio%3A%20Brazilian%20E-commerce%20Funnel%20Analysis/HRhd2Y0.png)
+
 ### Project 2: Bank Customer Churn Analysis
 
 This project uses the popular library PySpark, to build several ML models to identify customers who are likely to churn. The purpose of the project is to predict those clients, and also generate insights on the factors that drive customer churn, and possible solutions or business actions.
