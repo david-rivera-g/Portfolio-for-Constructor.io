@@ -3,12 +3,12 @@
 This portfolio selects some Data analytics projects, that use Python, SQL, and Data Analysis libraries to enhance data-driven decision making and generating valuable business insights.
 
 ### Project 1: Brazilian E-commerce sales and marketing funnel Analysis
-This project aims to execute Exploratory Data Analysis in an E-commerce based company named "Olist", which is a B2B enterprise that offers solutions to sellers to use their platform for online sales.
+This project aims to execute Exploratory Data Analysis (EDA) in an E-commerce based company named "Olist", which is a B2B enterprise that offers solutions to sellers to use their platform for online sales. Which includes:
 
-- fafeaef
-- awefñaoiefna
-- aefaefoawjifoawefjawo
-- aewfniawoef
+- SQL EDA via python with DuckDB with a multiple table Schema
+- Use of Pandas and numpy for more complex data operations.
+- Data Visualization with libraries like Matplotlib and Folium for Geospatial data visualization.
+- Generation of actionable business insights and conclusions.
 
 ### Project 2: Bank Customer Churn Analysis
 
